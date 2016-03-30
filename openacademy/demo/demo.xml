@@ -15,6 +15,7 @@ Can have multiple lines
             <field name="name">Course 2</field>
             <field name="description">Course 2's description</field>
         </record>
-
+        
+        
     </data>
 </openerp>
