@@ -21,6 +21,7 @@
                                         <field name="instructor_id"/>
                                     </tree>
                                 </field>
+                                <field name="attendee_ids"/>
                             </page>
                         </notebook>
                     </sheet>
